@@ -4,7 +4,7 @@
 
 #########################################################################
 
-The heart disease dataset contains 13 attributes for each datasample  to  predict  whether  a  person  has  heart  disease  or  not(14th  attribute).
+The heart disease dataset contains 13 attributes for each data sample  to  predict  whether  a  person  has  heart  disease  or  not(14th  attribute).
 
 The heart.csv file has 303 data samples. 
 

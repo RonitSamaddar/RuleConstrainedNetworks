@@ -1,0 +1,77 @@
+
+Software 							: 		Weka
+
+Filter Used in Preprocessing					: 		"Numeric To Nominal" on "target" attribute
+
+Classifier Type Used						:		Rule Based
+
+Classifier Used							:		PART
+
+MinNumObj							:		5
+(A property to set of PART in Weka indicating minimum number of instances per rule)
+
+Max Terms Per Rule 						:		5
+(Maximum number of AND-ed terms in a rule)
+
+
+
+
+PART decision list
+------------------
+
+cp > 0 AND
+thal <= 2 AND
+thal > 1 AND
+sex <= 0: 1 (53.0/2.0)
+
+ca > 0 AND
+cp <= 0 AND
+sex > 0: 0 (63.0/2.0)
+
+slope > 1 AND
+thal <= 2 AND
+fbs <= 0 AND
+exang <= 0 AND
+﻿age <= 56: 1 (41.0/2.0)
+
+oldpeak <= 0.7 AND
+fbs <= 0 AND
+trestbps <= 146 AND
+thal <= 2: 1 (23.0/3.0)
+
+slope > 1 AND
+fbs <= 0 AND
+﻿age <= 61 AND
+restecg <= 0: 0 (12.0/4.0)
+
+slope <= 1 AND
+exang > 0 AND
+trestbps > 115: 0 (30.0/1.0)
+
+thalach > 118 AND
+fbs <= 0 AND
+ca > 0: 0 (17.0/5.0)
+
+thalach > 118 AND
+sex > 0 AND
+fbs > 0: 1 (17.0/2.0)
+
+thalach > 118 AND
+sex > 0 AND
+exang <= 0 AND
+slope > 1: 1 (9.0/2.0)
+
+thalach > 118 AND
+sex > 0 AND
+exang > 0: 1 (8.0/1.0)
+
+thalach > 118 AND
+sex > 0 AND
+thal > 2 AND
+﻿age > 52: 1 (7.0/2.0)
+
+chol <= 298: 0 (18.0/4.0)
+
+: 1 (5.0)
+
+Number of Rules  : 	13
