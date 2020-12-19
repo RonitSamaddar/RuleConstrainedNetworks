@@ -10,9 +10,9 @@ The main purpose of RCNs are to achieve some sort of explainability or interpret
 
 For detailed description and explaination of RCNs, refer to the paper in the "Paper" folder titled "Deep Neural Network Constrained By Decision Rules"
 
-# STAGE 1 : BASIC IMPLEMENTATION ON SIMPLE DATASETS
+## STAGE 1 : BASIC IMPLEMENTATION ON SIMPLE DATASETS
 
-## DATASETS
+### DATASETS
 
 _All dataset files can be found in the data folder_
 

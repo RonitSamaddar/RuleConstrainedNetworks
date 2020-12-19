@@ -3,7 +3,7 @@ Rule Index,No. Of Instances,Instances,Class1 count,Class0 count,No. Of Terms,Ter
 1,0,NA,0,0,3,ca,2,0,cp,-1,0,sex,2,0,NA,-1,-1,NA,-1,-1
 2,0,NA,0,0,5,slope,2,1,thal,-1,2,fbs,-1,0,exang,-1,0,age,-1,56
 3,0,NA,0,0,4,oldpeak,-1,0.7,fbs,-1,0,trestbps,-1,146,thal,-1,2,NA,-1,-1
-4,0,NA,0,0,4,slope,2,1,fbs,-1,0,age ,-1,61,restecg,-1,0,NA,-1,-1
+4,0,NA,0,0,4,slope,2,1,fbs,-1,0,age,-1,61,restecg,-1,0,NA,-1,-1
 5,0,NA,0,0,3,slope,-1,1,exang,2,0,trestbps,2,115,NA,-1,-1,NA,-1,-1
 6,0,NA,0,0,3,thalach,2,118,fbs,-1,0,ca,2,0,NA,-1,-1,NA,-1,-1
 7,0,NA,0,0,3,thalach,2,118,sex,2,0,fbs,2,0,NA,-1,-1,NA,-1,-1
@@ -11,3 +11,4 @@ Rule Index,No. Of Instances,Instances,Class1 count,Class0 count,No. Of Terms,Ter
 9,0,NA,0,0,3,thalach,2,118,sex,2,0,exang,2,0,NA,-1,-1,NA,-1,-1
 10,0,NA,0,0,4,thalach,2,118,sex,2,0,thal,2,2,age,2,52,NA,-1,-1
 11,0,NA,0,0,1,chol,-1,298,NA,-1,-1,NA,-1,-1,NA,-1,-1,NA,-1,-1
+12,0,NA,0,0,0,NA,-1,-1,NA,-1,-1,NA,-1,-1,NA,-1,-1,NA,-1,-1
